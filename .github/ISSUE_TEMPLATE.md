@@ -1,5 +1,26 @@
 # Issueチケット
 
+## 1. 環境条件  
+### 1.1 OS分類  
+- [ ] Windows系  
+- [ ] MacOS系  
+- [ ] Linux系  
+
+### 1.1 システムのアーキテクチャ
+- [ ] 64Bit OS  
+- [ ] 32Bit OS  
+- [ ] 64Bit版のExcel  
+- [ ] 32Bit版のExcel  
+- [ ] Excelが32Bitか64Bitか把握していない 
+
+## 2. 機能  
+## 3. 再現確率  
+## 4. 直せそうな人を知っているか  
+## 5. 発生時のログ  
+## 6. 不具合判断を行った根拠  
+
+
+
 - [ ] 環境条件  
 * OS(Windows系 or MacOS系 or Linux系)  
 * 64Bit or 32Bit  
